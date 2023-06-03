@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    
+}
+
+.center{
+    text-align: center;
+    background-image: url("image.jpeg");
+    height: 95vh;
+    width: 30vw;
+    background-size: cover;
+    margin-left: 30rem;
+    
+    
+    
+}
+.bg{
+    background-color: white;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    padding: 2rem;
+ 
+}
+button{
+    padding: 0.5rem 1rem;
+    background-color: skyblue;
+    border-radius: 0.5rem;
+    color: white;
+    border-style: none;
+    
+}
+
